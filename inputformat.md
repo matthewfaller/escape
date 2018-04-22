@@ -2,6 +2,11 @@
 
 # Game Loop
 1. Write a function that will be the main game loop. 
+    
+    The loop should be broken down like:
+    - Check Input
+    - Update Game State
+    - Render Game State
 
 # User Input
 1. Write a function that will scan for two strings
